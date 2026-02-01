@@ -1,0 +1,9 @@
+select 
+    strftime('%m',purchase_date) as purchase_month
+from
+    purchase
+where 
+    course_name ="Cpp"
+order by
+    purchase_date asc
+limit 1
