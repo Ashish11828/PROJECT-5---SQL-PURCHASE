@@ -1,3 +1,15 @@
+# SQL: First Purchase Month
+
+## Overview
+
+SQL exercise for finding the month of the first purchase of a selected course.
+
+## Using this exercise
+
+Open the committed SQL solution file as text and run it against the matching exercise tables. A configured SQL environment and the exercise dataset are required. This repository does not provide a standalone database service.
+
+## Exercise brief
+
 Project purchases
 
 We have a table Purchases which contains the details of all courses and their purchases. The columns are as following:
@@ -19,3 +31,12 @@ Expected output
 ├────────────────┤
 │ 04             │
 └────────────────┘
+
+## Committed files
+
+- `LICENSE`
+- `SQL FILLE`
+
+## License
+
+MIT. See [LICENSE](LICENSE).
